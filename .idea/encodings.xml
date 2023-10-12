@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ddd-component-catchlog-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-catchlog-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-domain-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-domain-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-dto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-exception/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-extension-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-extension-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-statemachine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-statemachine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-test-container/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-component-test-container/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
