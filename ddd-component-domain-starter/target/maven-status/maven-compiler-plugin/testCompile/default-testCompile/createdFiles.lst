@@ -1,0 +1,3 @@
+com\fasimito\ddd\domain\Application.class
+com\fasimito\ddd\domain\PurchasePowerGateway.class
+com\fasimito\ddd\domain\Customer.class

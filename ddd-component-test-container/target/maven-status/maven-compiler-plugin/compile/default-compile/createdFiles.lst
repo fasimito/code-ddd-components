@@ -1,0 +1,8 @@
+com\fasimito\ddd\test\command\TestClassRunCmd.class
+com\fasimito\ddd\test\command\TestMethodRunCmd.class
+com\fasimito\ddd\test\command\AbstractCommand.class
+com\fasimito\ddd\test\TestsContainer.class
+com\fasimito\ddd\test\command\GuideCmd.class
+com\fasimito\ddd\test\TestExecutor.class
+com\fasimito\ddd\test\BeanMetaUtils.class
+com\fasimito\ddd\test\command\CommandEnum.class

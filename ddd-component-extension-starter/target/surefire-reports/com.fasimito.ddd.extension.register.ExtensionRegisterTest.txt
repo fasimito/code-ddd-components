@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fasimito.ddd.extension.register.ExtensionRegisterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.135 sec
